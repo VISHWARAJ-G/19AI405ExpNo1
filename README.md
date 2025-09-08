@@ -55,7 +55,7 @@ The agent moves between rooms to check and treat unhealthy patients.
 ## Program
 
 ### Name: Vishwaraj G
-### Register Number/Staff Id: 212223220125
+### Register Number: 212223220125
 
 ```
 import random
